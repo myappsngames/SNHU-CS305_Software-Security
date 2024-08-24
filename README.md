@@ -4,6 +4,9 @@ SNHU CS305 Project Two: Examine Artemis Financial’s software to address any se
 ## Reflection
 
 #### Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
+* Overview: Artemis Financial is a consulting company specializing in developing personalized financial plans for its clients. These plans cover various aspects such as savings, retirement, investments, and insurance.
+* Problem: The company aims to modernize its operations and enhance its software security. Specifically, they want to implement a file verification mechanism to ensure secure data transmission through their web application. This mechanism will involve using checksums to verify data integrity during transfers.
+* Goal: Artemis Financial seeks Global Rain's expertise to integrate secure communication protocols into their existing web application. This will help protect client data and financial information, meeting their software security requirements.
 
 #### What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
 
