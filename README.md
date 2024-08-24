@@ -20,8 +20,14 @@ SNHU CS305 Project Two: Examine Artemis Financial’s software to address any se
 * I employed a robust encryption algorithm to safeguard data during transmission, and I established a secure connection using self-signed certificates. Additionally, I transitioned from HTTP to HTTPS to enable encrypted communication. Finally, I incorporated a checksum verification step to ensure data integrity throughout the transmission process. These comprehensive measures significantly enhanced the application’s security posture, protecting sensitive information from unauthorized access and tampering.
 
 #### How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
+* To ensure the code and software application remained functional and secure after refactoring, I conducted rigorous testing and verification. I meticulously reviewed the modified code for syntactical and logical errors, ensuring that the changes did not introduce unintended consequences. Additionally, I performed comprehensive functional testing to verify that the application continued to operate as expected and that the new security measures were effective. To assess whether the refactoring process had inadvertently introduced new vulnerabilities, I employed static analysis tools to scan the code for potential weaknesses. By following these thorough testing procedures, I was able to maintain the application's functionality and enhance its overall security.
 
 #### What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+* Encryption Libraries: Libraries like OpenSSL or Bouncy Castle provide pre-built cryptographic algorithms and functions, making it easier to implement encryption and decryption.
+* Certificate Management Tools: Tools like Java Keytool can be used to generate, manage, and export certificates.
+* Static Analysis Tools: Tools like SonarQube or FindBugs can help identify potential security vulnerabilities in code.
+* Security Best Practices Guides: Following security best practices guidelines, such as those provided by OWASP, can help prevent common vulnerabilities.
+* Secure Coding Practices: Adopting secure coding practices, like input validation, output encoding, and avoiding hardcoded credentials, can significantly reduce the risk of vulnerabilities.
 
 #### Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
