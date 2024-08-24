@@ -30,5 +30,14 @@ SNHU CS305 Project Two: Examine Artemis Financial’s software to address any se
 * Secure Coding Practices: Adopting secure coding practices, like input validation, output encoding, and avoiding hardcoded credentials, can significantly reduce the risk of vulnerabilities.
 
 #### Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+* Technical Skills and Knowledge
+  * Encryption: Demonstrate my understanding of encryption algorithms, key management, and certificate-based authentication by providing examples of how I implemented these techniques.
+  * Secure Coding Practices: Showcase my knowledge of secure coding practices by highlighting specific examples of how I avoided common vulnerabilities like SQL injection, cross-site scripting, or buffer overflows.
+  * Static Analysis Tools: Discuss my experience with using static analysis tools to identify potential vulnerabilities in the code.
+
+* Problem-Solving and Analytical Skills
+  * Vulnerability Assessment: Explain how I conducted a thorough vulnerability assessment, identifying potential weaknesses and recommending appropriate mitigation strategies.
+  * Risk Assessment: Describe how I evaluated the risks associated with different vulnerabilities and prioritized remediation efforts.
+  * Problem-Solving: Highlight specific instances where I faced challenges during the assessment and how I overcame them.
 
 
