@@ -14,8 +14,10 @@ SNHU CS305 Project Two: Examine Artemis Financial’s software to address any se
 * By mitigating the risk of security breaches, it safeguards valuable assets and preserves a company’s reputation. Strong security practices can also provide a competitive advantage, setting a company apart in the market. Adherence to security regulations is essential to avoid legal complications and maintain a positive public image. Having a robust security posture also ensures business continuity, enabling operations to continue even in the face of security incidents.
 
 #### Which part of the vulnerability assessment was challenging or helpful to you?
+* Learning which algorithm cipher to implement was helpful. Providing a sound justification for the chosen encryption algorithm was both challenging and rewarding.
 
 #### How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
+* I employed a robust encryption algorithm to safeguard data during transmission, and I established a secure connection using self-signed certificates. Additionally, I transitioned from HTTP to HTTPS to enable encrypted communication. Finally, I incorporated a checksum verification step to ensure data integrity throughout the transmission process. These comprehensive measures significantly enhanced the application’s security posture, protecting sensitive information from unauthorized access and tampering.
 
 #### How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
