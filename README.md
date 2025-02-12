@@ -1,4 +1,4 @@
-# SNHU CS305: Software Security
+# SNHU CS305: Software Security Journal
 Project Two: Artemis Financial file verification mechanism
 
 ## Reflection
