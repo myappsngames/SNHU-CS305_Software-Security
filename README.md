@@ -1,5 +1,5 @@
 # SNHU CS305: Software Security
-SNHU CS305 Project Two
+Project Two: Artemis Financial file verification mechanism
 
 ## Reflection
 
