@@ -1,5 +1,5 @@
 # SNHU CS305: Software Security
-SNHU CS305 Project Two: Examine Artemis Financial’s software to address any security vulnerabilities
+SNHU CS305 Project Two
 
 ## Reflection
 
